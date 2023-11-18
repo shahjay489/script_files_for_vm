@@ -1,6 +1,6 @@
 ---
 - name: Install Java, Git, Node.js, and Docker
-  hosts: vagrant_default_1700316996154_44548
+  hosts: localhost
   become: yes
 
   tasks:
